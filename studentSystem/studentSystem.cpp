@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-	cout << "This is version 1.0";
+	cout << "This is version 1.1";
 }
